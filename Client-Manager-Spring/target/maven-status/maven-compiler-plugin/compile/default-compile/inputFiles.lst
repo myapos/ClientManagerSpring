@@ -1,0 +1,9 @@
+/home/myros/workspace/ClientManagerSpring/Client-Manager-Spring/src/main/java/com/myros/web/model/User.java
+/home/myros/workspace/ClientManagerSpring/Client-Manager-Spring/src/main/java/com/myros/web/service/MyUserDetailsService.java
+/home/myros/workspace/ClientManagerSpring/Client-Manager-Spring/src/main/java/old/HelloController.java
+/home/myros/workspace/ClientManagerSpring/Client-Manager-Spring/src/main/java/com/myros/web/dao/UsersDAO.java
+/home/myros/workspace/ClientManagerSpring/Client-Manager-Spring/src/main/java/com/myros/web/spring/MainController.java
+/home/myros/workspace/ClientManagerSpring/Client-Manager-Spring/src/main/java/com/myros/web/utilities/StringHelper.java
+/home/myros/workspace/ClientManagerSpring/Client-Manager-Spring/src/main/java/com/myros/web/dao/UsersDAOImpl.java
+/home/myros/workspace/ClientManagerSpring/Client-Manager-Spring/src/main/java/com/myros/web/model/UserRole.java
+/home/myros/workspace/ClientManagerSpring/Client-Manager-Spring/src/main/java/old/DBConnection.java

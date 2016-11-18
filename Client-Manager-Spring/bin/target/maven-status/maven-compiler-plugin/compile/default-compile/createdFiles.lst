@@ -1,0 +1,15 @@
+com/myros/web/spring/MainController.class
+com/myros/web/dao/UsersDAO.class
+old/DBConnection.class
+com/myros/web/utilities/StringHelper.class
+com/myros/web/spring/TestController.class
+com/myros/web/service/TestServiceImpl.class
+com/myros/web/model/User.class
+old/HelloController.class
+com/myros/web/dao/TestDAO.class
+com/myros/web/dao/UsersDAOImpl.class
+com/myros/web/dao/TestDAOImpl.class
+com/myros/web/model/Test.class
+com/myros/web/model/UserRole.class
+com/myros/web/service/MyUserDetailsService.class
+com/myros/web/service/TestService.class

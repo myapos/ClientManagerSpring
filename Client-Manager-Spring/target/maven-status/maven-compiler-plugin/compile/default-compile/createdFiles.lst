@@ -1,0 +1,9 @@
+com/myros/web/spring/MainController.class
+com/myros/web/dao/UsersDAO.class
+old/DBConnection.class
+old/HelloController.class
+com/myros/web/dao/UsersDAOImpl.class
+com/myros/web/utilities/StringHelper.class
+com/myros/web/model/UserRole.class
+com/myros/web/service/MyUserDetailsService.class
+com/myros/web/model/User.class
